@@ -4,8 +4,8 @@ Gem::Specification.new do |gem|
   gem.name          = "sshgen"
   gem.authors       = ["Connor Atherton"]
   gem.email         = "c.liam.atherton@gmail.com"
-  gem.summary       = "Ruby SSH key generator."
-  gem.description   = "Generates public and private SSH keys."
+  gem.summary       = "Handy SSH key operations."
+  gem.description   = "A ruby library for SSH key operations."
   gem.homepage      = "http://github.com/ConnorAtherton/sshgen"
   gem.license       = "MIT"
 
