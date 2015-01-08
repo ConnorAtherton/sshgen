@@ -1,1 +1,4 @@
-class SSHGen; end
+class SSHGen
+  # work on it!
+end
+
